@@ -6,7 +6,9 @@
     "slug": "tile",
     "content": "Loads of text!",
     "description": "Description",
-    "tags": [],
+    "tags": [
+      "test"
+    ],
     "emojii": "🤪"
   }
 ]
